@@ -14,6 +14,12 @@ window.location.href="B2.html";
 window.location.href="C1.html";
 } else if(username.value == "C2"){
 window.location.href="C2.html";
+} else if(username.value == "D1"){
+window.location.href="D1.html";
+} else if(username.value == "D2"){
+window.location.href="D2.html";
+} else if(username.value == "D3"){
+window.location.href="D3.html";
 } else {
 alert("請輸入正確的關卡編號！")
 }
