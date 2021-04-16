@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>拾歲-關卡查詢系統</title>
+<link rel="stylesheet" type="text/css" href="login.css"/>
+<script type="text/javascript" src="login.js"></script>
+</head>
+<body>
+<div id="login_frame">
+<h1>拾歲-關卡查詢系統</h1>
+<form method="post" action="login.js">
+<p><h3>使用說明<br></h3>
+若在下方輸入關卡編號，如：A1-01、C1-03、D1-04等等，則會顯示該關內容<br>
+若在下方輸入英文數字，如：A1、C1、D1等等，則會顯示整條線的內容<br>
+注意：支線的代號是D<br>
+</p>
+<p><label class="label_input">請輸入：</label><input type="text" id="username" class="text_field"/></p>
+<div id="login_control">
+<input type="button" id="btn_login" value="送出" onclick="login();"/>
+</div>
+</form>
+</div>
+</body>
+</html>
