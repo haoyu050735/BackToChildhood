@@ -38,7 +38,7 @@ border-bottom-left-radius: 5px;
 
 .label_describe {
 font-size: 14px;
-font-family: "微軟正黑體";
+font-family: "思源柔黑體";
 width: 350px;
 
 line-height: 28px;
@@ -52,7 +52,7 @@ border-bottom-left-radius: 50px;
 }
 .label_note {
 font-size: 14px;
-font-family: "微軟正黑體";
+font-family: "思源柔黑體";
 width: 350px;
 line-height: 2px;
 text-align: center;
@@ -65,7 +65,7 @@ border-bottom-left-radius: 50px;
 }
 .label_upnote {
 font-size: 18px;
-font-family: "微軟正黑體";
+font-family: "思源柔黑體";
 width: 350px;
 line-height: 2px;
 text-align: center;
@@ -88,7 +88,7 @@ border: 0;
 }
 #btn_login {
 font-size: 14px;
-font-family: "微軟正黑體";
+font-family: "思源柔黑體";
 width: 175px;
 height: 28px;
 line-height: 28px;
@@ -101,7 +101,7 @@ float: center;
 }
 #btn_npc {
 font-size: 14px;
-font-family: "微軟正黑體";
+font-family: "思源柔黑體";
 font-weight: bold;
 width: 350px;
 padding: 8px;'
