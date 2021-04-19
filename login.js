@@ -24,3 +24,6 @@ window.location.href="D3.html";
 alert("請輸入正確的關卡編號！")
 }
 }
+function find_npc() {alert("還沒做好啦QQ");}
+function find_level() {alert("還沒做好啦QQ");}
+function find_token() {alert("還沒做好啦QQ");}
